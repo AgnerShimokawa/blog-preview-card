@@ -38,8 +38,8 @@ Desktop View
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub repository URL](https://github.com/AgnerShimokawa/blog-preview-card)
+- Live Site URL: [Live site URL](https://agnershimokawa.github.io/blog-preview-card/)
 
 
 ## My process
