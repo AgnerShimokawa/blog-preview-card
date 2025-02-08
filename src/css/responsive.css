@@ -1,0 +1,28 @@
+@media (max-width: 450px) {
+    .card {
+        width: 325px;
+        height: 501px;
+    }
+
+    .card .blog-image {
+        width: 279px;
+        height: 200px;
+    }
+
+    .card .card-content {
+        padding: 20px 0;
+    }
+
+    .card .card-content .category {
+        font-size: 12px;
+        width: 73px;
+    }
+
+    .card .card-content .publish-date {
+        font-size: 12px;
+    }
+
+    .card .card-content .title {
+        font-size: 20px;
+    }
+}
